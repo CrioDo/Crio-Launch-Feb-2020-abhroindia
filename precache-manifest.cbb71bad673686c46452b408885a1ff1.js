@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "819d80f30256353ac1b4011530b0ffa4",
+    "revision": "07866f63f1770283c607584342d754db",
     "url": "/Crio-Launch-Feb-2020-abhroindia/index.html"
   },
   {
-    "revision": "c8c31be739885d415d4c",
+    "revision": "dac92f49acd51b83dead",
     "url": "/Crio-Launch-Feb-2020-abhroindia/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "3def46b0f291d5bde570",
+    "revision": "1235e21324334ce0185f",
     "url": "/Crio-Launch-Feb-2020-abhroindia/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "c8c31be739885d415d4c",
-    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/2.e1ea6db4.chunk.js"
+    "revision": "dac92f49acd51b83dead",
+    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/2.6debd2bc.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/2.e1ea6db4.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/2.6debd2bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3def46b0f291d5bde570",
-    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/main.95455501.chunk.js"
+    "revision": "1235e21324334ce0185f",
+    "url": "/Crio-Launch-Feb-2020-abhroindia/static/js/main.82aa8d30.chunk.js"
   },
   {
     "revision": "74133154ca3e09092412",
